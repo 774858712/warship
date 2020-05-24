@@ -1,2 +1,1 @@
-web: python ship.py
-
+gunicorn ship:app
