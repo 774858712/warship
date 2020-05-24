@@ -1,1 +1,1 @@
-python ship.py
+web: gunicorn warship-identification.wsgi --log-file -
