@@ -1,1 +1,1 @@
-gunicorn ship:app
+web: gunicorn ship:app
