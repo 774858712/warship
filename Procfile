@@ -1,1 +1,1 @@
-web: gunicorn warship-identification.wsgi --log-file -
+web: gunicorn ship-heroku.wsgi --log-file -
