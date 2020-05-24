@@ -1,1 +1,1 @@
-web: gunicorn ship-heroku.wsgi --log-file -
+web: gunicorn ship.wsgi --log-file -
